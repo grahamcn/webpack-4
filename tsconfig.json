@@ -1,0 +1,16 @@
+// https://blog.mariusschulz.com/2018/01/14/code-splitting-with-import-typescript-and-webpack
+{
+  "compilerOptions": {
+    "target": "es5",
+    "moduleResolution": "node",
+    "module": "esnext",
+    "strict": true,
+    "strictFunctionTypes": false,
+    "importHelpers": true,
+    "lib": [
+        "dom",
+        "es5",
+        "es2015.promise"
+    ]
+  }
+}
