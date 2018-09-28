@@ -1,7 +1,7 @@
 {
-  "name": "intl-webapp",
+  "name": "webpack-starter",
   "version": "1.0.0",
-  "description": "Inernational web application",
+  "description": "Initial setup for Webpack/Typescript/CycleJs",
   "main": "main.ts",
   "scripts": {
     "webpack-dev-server": "webpack-dev-server",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/grahamcn/pattern-lib.git"
+    "url": "https://github.com/grahamcn/webpack-starter.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "homepage": "https://github.com/grahamcn/pattern-lib",
+  "homepage": "https://github.com/grahamcn/webpack-starter",
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
     "compression-webpack-plugin": "^2.0.0",
